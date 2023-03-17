@@ -27,4 +27,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 #Altschool Finals
 
 ##Hosted Link
-(https://altschoolfinals.vercel.app/).
+https://altschoolfinals.vercel.app/.
